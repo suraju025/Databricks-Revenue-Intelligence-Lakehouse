@@ -1,3 +1,4 @@
+scripts/generate_sample_data.py
 import pandas as pd
 
 def main():
